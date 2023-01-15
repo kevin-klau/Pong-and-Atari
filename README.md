@@ -9,7 +9,7 @@
 ***
 **Experience nostalgia by playing Pong & Atari with extra bonuses & features!!!** 🙌<br>
 ## Pong:
-Just like the original pong, this is a 2 player game!!!<br>✌️
+Just like the original pong, this is a 2 player game!!!✌️<br>
 **Player 1 Controls:** '**W**' = Up and '**S**' = Down<br>
 **Player 2 Controls:** '**Up Arrow**' = Up and '**Down Arrow**" = Down<br>
 In order to **gain 1 point**, the ball **must past** through the enemies **boundaries**!!!<br>
